@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&family=Saira:wght@100&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Padauk&family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&family=Saira:wght@100&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Padauk&family=Plaster&family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&family=Saira:wght@100&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Kranky&family=Padauk&family=Plaster&family=Quicksand:wght@300&family=Roboto:wght@100&family=Rokkitt&family=Rouge+Script&family=Saira:wght@100&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rouge+Script&display=swap%27');
+
+
+body{
+    font-weight: 1200px;
+}
+img{
+    width: 700px;
+}
+.card{
+    text-align: center;
+}
+.card0,
+.card3,
+.card6{
+    font-size: 36px;
+    color: #000000;
+    font-family: 'roboto', sans-serif;
+}
+.card4,
+.card5,
+.card3{
+    text-align: end;
+}
+.card1,
+.card2,
+.card4,
+.card5,
+.card7,
+.card8{
+    font-size: 28px;
+}
+.card1{
+    color: #eb2020;
+    font-family: 'Rokkitt', serif;
+
+}
+.card2{
+color: #730ac6; 
+font-family: 'Courier Prime', monospace;
+}
+.card4{
+color: #659a77;
+font-family: 'Saira', sans-serif;
+}
+.card5{
+color: #154ee0;
+font-family: 'Padauk', sans-serif;
+}
+.card7{
+color: #840d87;
+font-family: 'Plaster', cursive;
+}
+.card8{
+color: #ef6c0c;
+font-family: 'Kranky', cursive;
+}
+ 
